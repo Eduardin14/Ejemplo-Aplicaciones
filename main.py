@@ -3,3 +3,4 @@ def sumar_numeros_enteros(a: int, b: int) -> int:
 
 
 print(sumar_numeros_enteros(5, 3))
+print(sumar_numeros_enteros(-2, 7))
